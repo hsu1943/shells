@@ -1,0 +1,1 @@
+var arr = $$('tr span.text-ellipsis'); var x=''; for (i = 0; i< arr.length; i++) {x += ',' + arr[i].textContent} console.log(x)
